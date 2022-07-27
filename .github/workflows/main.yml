@@ -14,6 +14,7 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: peraltazera
+          color_snake: black
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
