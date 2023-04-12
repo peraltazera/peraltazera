@@ -25,7 +25,7 @@
 <div> 
 <!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorgamedeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/victor-pereira-4847011b8/" target="_blank" margin="120px 0px 0px 0px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-pereira-4847011b8/" target="_blank" margin="120px 120px 120px 120px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://victor-pereira-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> 
  
   <!--![Snake animation](https://github.com/peraltazera/peraltazera/blob/output/github-contribution-grid-snake.svg))-->
